@@ -18,3 +18,6 @@ Olá! Eu sou a Jeniffer Máximo
    <a href="https://www.linkedin.com/in/jeniffermaximo" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5??style=for-the- badge&logo=Linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:jeniffer1994maximo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836???style=for-the- badge&logo=email&logoColor=white" target="_blank"></a>
 </div>
+
+
+![animação de cobra](https:github.com/jeniffer-mxm/jeniffer-mxm/blob/output/github-contribution-grid-snake.svg)
