@@ -3,8 +3,6 @@ Olá! Eu sou a Jeniffer Máximo
 
 -Atualmente sou estudante de Programação
 
--Contate-me: jeniffer1994maximo@gmail.com
-
 -Pronome: ela/dela
 
 
